@@ -26,12 +26,12 @@ Para atender aos requisitos, o sistema é capaz de coletar a identificação da 
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
-- [Node-Red]
-- [Arduino(Tag RFID & Servo Motor)]
-- [Json]
-- [MQTT Broker]
-- [Telegram Bot]
-- [Ui Dashboard]
+- Node-Red
+- Arduino (Tag RFID & Servo Motor)
+- Json
+- MQTT Broker
+- Telegram Bot
+- Ui Dashboard
 
 
 ## 👥 Contribuitors
