@@ -52,6 +52,13 @@ Agora basta dar deploy no node-red, e depois do localhost colocar "/ui" (ex: "ht
 
 <img alt="Arquitetura" height="400px" width="800px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/dashboard.PNG" />
 
+
+
+### ✔ Resultado
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IQi75LsW3H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ### 🛠 Tecnologias
 
 As seguintes tecnologias foram usadas na construção do projeto:
