@@ -27,7 +27,7 @@ Para atender aos requisitos, o sistema é capaz de coletar a identificação da 
 ### 📋 How to
 
 #### Primeiro Passo:
-Baixe o node-red no seu ambiente. Abra o CMD e digite: node-red. Isso fará o node-red subir num localhost, abra-o e dentro dele importe o arquivo "cp4.ino", talvez alguns nós não apareçam, se isso acontecer baixe no "manage pallets", as seguintes libs: node-red-node-serialport; node-red-contrib-telegrambot; node-red-dashboard dashboard. Ele deve aparecer como na seguinte imagem: 
+Baixe o node-red no seu ambiente. Abra o CMD e digite: node-red. Isso fará o node-red subir num localhost, abra-o e dentro dele importe o arquivo "cp4.json", talvez alguns nós não apareçam, se isso acontecer baixe no "manage pallets", as seguintes libs: node-red-node-serialport; node-red-contrib-telegrambot; node-red-dashboard dashboard. Ele deve aparecer como na seguinte imagem: 
 
 <img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1.PNG" />
 <img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1-2.PNG" />
@@ -42,6 +42,10 @@ Baixe o Arduino no seu ambiente. Enquanto instala monte seu arduino com conexão
 
 Obs: conectar o servo motor na porta 5 para ficar igual ao código.
 
+#### Terceiro Passo:
+Agora baixe o arquivo "cp4.ino", nele está contido o código para realizar as funções do arduino, abra-o na IDE. Após isso vá em Tools e depois em Manage Library, pesquise por MFRC522 e instale, depois por ArduinoJson e instale. Após essas duas bibliotecas instaladas vá em Tools -> Port -> e selecione a porta referente ao arduino. Agora é só apertar no botão de upload como na imagem abaixo: 
+
+<img alt="Arquitetura" height="590px" width="390px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/upload.PNG" />
 
 ### 🛠 Tecnologias
 
