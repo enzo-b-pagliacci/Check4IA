@@ -14,25 +14,24 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o projeto</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-recursos">Recursos</a> • 
- <a href="#-quem-somos">Quem somos</a> • 
- <a href="#-missão">Missão</a> • 
- <a href="#-visão">Visão</a> • 
- <a href="#-valores">Valores</a> • 
 <a href="#-contribuitors">Contribuidores</a>
 </p>
 
 ### 💻 Sobre o projeto
+Para atender aos requisitos, o sistema é capaz de coletar a identificação da TAG RFID com o Arduino (ARDUINO1) e envia utilizando formato JSON para um fluxo Node-Red que realiza duas funções: - publica em um tópico utilizando o protocolo MQTT ; - Notifica o usuário via telegram. Um segundo fluxo Node-Red subscreve o tópico e exibe o valor da TAG em um DASHBOARD. O sistema então se comunica com o arduino (ARDUINO2) no formato JSON para realizar o sistema de posição do servo motor, esta posição é controlado pelo DASHBOARD com um botão setando 180° e outro setando 0°.
+
 
 
 ### 🛠 Tecnologias
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
-- [Chat-bot(Watson assistant)](https://www.ibm.com/br-pt/cloud/watson-assistant)
-- [Metodologia SCRUM](https://blog.contaazul.com/metodologia-scrum)
-- [Chat-bot(Watson assistant)](https://www.ibm.com/br-pt/cloud/watson-assistant)
-- [Metodologia SCRUM](https://blog.contaazul.com/metodologia-scrum)
+- [Node-Red]
+- [Arduino(Tag RFID & Servo Motor)]
+- [Json]
+- [MQTT Broker]
+- [Telegram Bot]
+- [Ui Dashboard]
 
 
 ## 👥 Contribuitors
