@@ -26,7 +26,7 @@ Para atender aos requisitos, o sistema é capaz de coletar a identificação da 
 
 ### 📋 How to
 
-###Primeiro Passo:
+#### Primeiro Passo:
 Baixe o node-red no seu ambiente. Abra o CMD e digite: node-red. Isso fará o node-red subir num localhost, abra-o e dentro dele importe o arquivo "cp4.ino", talvez alguns nós não apareçam, se isso acontecer baixe no "manage pallets", as seguintes libs: node-red-node-serialport; node-red-contrib-telegrambot; node-red-dashboard dashboard. Ele deve aparecer como na seguinte imagem: 
 
 <img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1.PNG" />
