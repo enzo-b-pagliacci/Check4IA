@@ -14,7 +14,9 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o projeto</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
-<a href="#-contribuitors">Contribuidores</a>
+<a href="#-contribuitors">Contribuidores</a> •
+<a href="#-how-to">How to</a> •
+<a href="#-resultado">Resultado</a> 
 </p>
 
 ### 💻 Sobre o projeto
@@ -55,8 +57,7 @@ Agora basta dar deploy no node-red, e depois do localhost colocar "/ui" (ex: "ht
 
 
 ### ✔ Resultado
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IQi75LsW3H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Acessar: https://www.youtube.com/embed/IQi75LsW3H0
 
 
 ### 🛠 Tecnologias
