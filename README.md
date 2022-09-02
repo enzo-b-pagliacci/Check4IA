@@ -44,31 +44,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Chat-bot(Watson assistant)](https://www.ibm.com/br-pt/cloud/watson-assistant)
 - [Metodologia SCRUM](https://blog.contaazul.com/metodologia-scrum)
 
-### 👥 Quem somos
-
-Somos um grupo de desenvolvedores que entendemos que a ansiedade no Brasil é um problema real, sério e que aumentou muito durante a pandemia. Por isso criamos o Calmamente uma plataforma digital que possa ajudar você em momentos de uma crise de ansiedade e em momentos antes de uma crise, fornecendo exercícios simples com a capacidade retirada de sua mente do estado de crise. Entendemos também que cada pessoa tem suas individualidades em momentos de crise e que devem ser respeitadas, recomendando assim exercícios de acordo com suas próprias características individuais.
-### 🎖 Missão
-Ajudar pessoas que possuem problemas com ansiedade sugerindo diversos exercícios de acordo com a personalidade da pessoa, e permitindo que ela personalize suas soluções. Ultimamente os casos de pessoas com ansiedade vem subindo muito e quanto mais pessoas forem ajudadas melhor.
-
-### 👀 Visão
-Pretendemos nos tornar o maior canal acessível para ajuda contra ansiedade do Brasil, sendo bem-visto e recomendado por conselhos de psicologia de todo o país. Nosso objetivo é ser capaz de ajudar milhares de pessoas todos os dias a lidarem com essa doença e contribuir para que o Brasil pare de ser, no ranking da OMS, o pais mais ansioso do Mundo.
-
-### 👔 Valores
-Humanização: Cuidado centrado nas pessoas, respeitando todos os usuários.
-
-Compreensão: Compreendemos que a ansiedade é um problema sério e que deve ser tratada com muita atenção.
-
-Gratidão: Somos gratos pela possibilidade de auxílio às pessoas principalmente por termos passado por momentos tão difíceis.
-
-Confiabilidade: Estabelecer relacionamentos abertos, transparentes e apoiados na confiança mútua.
 
 ## 👥 Contribuitors
 <table>
-	<tr>
-	      <td align="center"><a href="https://github.com/JhoctanTeixeira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80040630?v=4" width="100px;" alt=""/><br /><sub><b>Jhoctan Teixeira</b></sub></a><br /><a href="https://github.com/JhoctanTeixeira" title="Jhoctan-Teixeira">🚀💻</a></td>
+	<tr>      
 		<td align="center"><a href="https://github.com/enzo-b-pagliacci"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80040708?v=4" width="100px;" alt=""/><br /><sub><b>enzo-b-pagliaci</b></sub></a><br /><a href="https://github.com/enzo-b-pagliacci" title="enzo-b-pagliaci">🚀💻</a></td>
-    		<td align="center"><a href="https://github.com/Gustavo-Lopes-Carlin-fiap"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/Gustavo.png" width="100px;" alt=""/><br /><sub><b>Gustavo-Lopes-Carlin-fiap</b></sub></a><br /><a href="https://github.com/Gustavo-Lopes-Carlin-fiap" title="Gustavo">🚀💻</a></td>
-    		<td align="center"><a href="https://github.com/Guilherme-Beck-FIAP"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/Beck.png" width="100px;" alt=""/><br /><sub><b>Guilherme-Beck-FIAP</b></sub></a><br /><a href="https://github.com/Guilherme-Beck-FIAP" title="enzo-b-pagliaci">🚀💻</a></td>
-    		<td align="center"><a href="https://github.com/Gabrielrpg68"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/dantas.png" width="100px;" alt=""/><br /><sub><b>Gabrielrpg68</b></sub></a><br /><a href="https://github.com/Gabrielrpg68" title="enzo-b-pagliaci">🚀💻</a></td>	
+    		<td align="center"><a href="https://github.com/Gustavo-Lopes-Carlin-fiap"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/Gustavo.png" width="100px;" alt=""/><br /><sub><b>Gustavo-Lopes-Carlin-fiap</b></sub></a><br /><a href="https://github.com/Gustavo-Lopes-Carlin-fiap" title="Gustavo">🚀💻</a></td>	
 	</tr>
 </table>
