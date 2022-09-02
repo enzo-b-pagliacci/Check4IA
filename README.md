@@ -47,6 +47,9 @@ Agora baixe o arquivo "cp4.ino", nele está contido o código para realizar as f
 
 <img alt="Arquitetura" height="490px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/upload.PNG" />
 
+#### Quarto Passo:
+Agora basta dar deploy no node-red, e depois do localhost colocar "/ui" (ex: "http://127.0.0.1:1880/ui") para acessar o dashboard e testar a aplicação de IoT!!!🎉
+
 ### 🛠 Tecnologias
 
 As seguintes tecnologias foram usadas na construção do projeto:
