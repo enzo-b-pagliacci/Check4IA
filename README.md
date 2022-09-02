@@ -32,7 +32,15 @@ Baixe o node-red no seu ambiente. Abra o CMD e digite: node-red. Isso fará o no
 <img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1.PNG" />
 <img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1-2.PNG" />
 
-Obs: Os nós Serial In e Out devem estar conectados na mesma porta do Arduino. No nó de Telegram Sender deverá ser inserido o nome e o Token do bot criado através do telegram <a href="https://canaltech.com.br/apps/como-criar-um-bot-no-telegram-botfather/#:~:text=Digite%20o%20comando%20%E2%80%9C%2Fnewbot%E2%80%9D,%E2%80%9Cbot%E2%80%9D%2C%20sem%20espa%C3%A7os." target="_blank">bot father</a>
+Obs: Os nós Serial In e Out devem estar conectados na mesma porta do Arduino. No nó de Telegram Sender deverá ser inserido o nome e o Token do bot criado através do telegram <a href="https://canaltech.com.br/apps/como-criar-um-bot-no-telegram-botfather/#:~:text=Digite%20o%20comando%20%E2%80%9C%2Fnewbot%E2%80%9D,%E2%80%9Cbot%E2%80%9D%2C%20sem%20espa%C3%A7os." target="_blank">bot father</a>. Nos nós de MQTT in e out deverá ser inserido o tópico desejado.
+
+#### Segundo Passo:
+Baixe o Arduino no seu ambiente. Enquanto instala monte seu arduino com conexão de Tag RFID e servo motor segundo a imagem: 
+
+<img alt="Arquitetura" height="690px" width="390px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/rfid-arduino-img4-atual.png" />
+<img alt="Arquitetura" height="390px" width="390px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/img01_como_usar_com_arduino_micro_servo_motor_sg90_9g_robo_mercatronica_carrinho_uno_mega_leonardo_nano.jpg" />
+
+Obs: conectar o servo motor na porta 5 para ficar igual ao código.
 
 
 ### 🛠 Tecnologias
