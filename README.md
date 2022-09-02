@@ -45,7 +45,7 @@ Obs: conectar o servo motor na porta 5 para ficar igual ao código.
 #### Terceiro Passo:
 Agora baixe o arquivo "cp4.ino", nele está contido o código para realizar as funções do arduino, abra-o na IDE. Após isso vá em Tools e depois em Manage Library, pesquise por MFRC522 e instale, depois por ArduinoJson e instale. Após essas duas bibliotecas instaladas vá em Tools -> Port -> e selecione a porta referente ao arduino. Agora é só apertar no botão de upload como na imagem abaixo: 
 
-<img alt="Arquitetura" height="590px" width="390px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/upload.PNG" />
+<img alt="Arquitetura" height="590px" width="490px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/upload.PNG" />
 
 ### 🛠 Tecnologias
 
