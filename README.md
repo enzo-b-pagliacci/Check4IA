@@ -5,7 +5,7 @@
 	Integrantes:
 </h3>
 <h3 align="center"> 
-	Enzo Bense Pagliacci - Rm87203
+	Enzo Bense Pagliacci - Rm87203 |
   Gustavo Lopes Carlin - Rm87339
 </h3>
 
@@ -23,6 +23,14 @@
 
 Para atender aos requisitos, o sistema é capaz de coletar a identificação da TAG RFID com o Arduino (ARDUINO1) e envia utilizando formato JSON para um fluxo Node-Red que realiza duas funções: - publica em um tópico utilizando o protocolo MQTT ; - Notifica o usuário via telegram. Um segundo fluxo Node-Red subscreve o tópico e exibe o valor da TAG em um DASHBOARD. O sistema então se comunica com o arduino (ARDUINO2) no formato JSON para realizar o sistema de posição do servo motor, esta posição é controlado pelo DASHBOARD com um botão setando 180° e outro setando 0°.
 
+
+### 📋 How to
+
+####Primeiro Passo:
+Baixe o node-red no seu ambiente. Abra o CMD e digite: node-red. Isso fará o node-red subir num localhost, abra-o e dentro dele importe o arquivo "cp4.ino", talvez alguns nós não apareçam, se isso acontecer baixe no "manage pallets", as seguintes libs: node-red-node-serialport; node-red-contrib-telegrambot; node-red-dashboard dashboard. Ele deve aparecer como na seguinte imagem: 
+
+<img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1.PNG" />
+<img alt="Arquitetura" height="390px" width="690px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/flow1-2.PNG" />
 
 
 ### 🛠 Tecnologias
