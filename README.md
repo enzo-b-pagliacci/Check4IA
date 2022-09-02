@@ -50,6 +50,8 @@ Agora baixe o arquivo "cp4.ino", nele está contido o código para realizar as f
 #### Quarto Passo:
 Agora basta dar deploy no node-red, e depois do localhost colocar "/ui" (ex: "http://127.0.0.1:1880/ui") para acessar o dashboard e testar a aplicação de IoT!!!🎉
 
+<img alt="Arquitetura" height="400px" width="800px" title="Arquitetura" src="https://github.com/enzo-b-pagliacci/Check4IA/blob/main/midias/dashboard.PNG" />
+
 ### 🛠 Tecnologias
 
 As seguintes tecnologias foram usadas na construção do projeto:
